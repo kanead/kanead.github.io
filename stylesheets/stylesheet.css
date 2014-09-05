@@ -245,3 +245,68 @@ a {
 .cf {
   zoom:1;
 }
+
+
+#header {
+  z-index: 100;
+  left: 0;
+  top: 0px;
+  height: 60px;
+  width: 100%;
+  position: fixed;
+  background: #292928;
+
+}
+#header nav {
+  max-width: 650px;
+  margin: 0 auto;
+  padding: 0 10px;
+  background: black;
+  margin: 6px auto;
+}
+#header nav li {
+  font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  list-style: none;
+  display: inline;
+  color: black;
+  line-height: 50px;
+  text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
+  font-size: 14px;
+}
+#header nav li a {
+  color: black;
+  border: 1px solid #ff7400;
+  background: #ff7400;
+  background-color: #ff7400;
+  padding: 10px 12px;
+  margin-top: 6px;
+  line-height: 14px;
+  font-size: 14px;
+  display: inline-block;
+  text-align: center;
+}
+#header nav li a:hover {
+  background:  #ff9640;
+  background-color:  #ff9640;
+  border: 1px solid #ff9640;
+}
+#header nav li.fork {
+  float: left;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+#header nav li.downloads {
+  float: right;
+  margin-left: 6px;
+}
+#header nav li.title {
+  float: right;
+  margin-right: 10px;
+  font-size: 11px;
+}
+#header nav li.button {
+  margin-left: 6px;
+  margin-right: 6px;
+  font-size: 11px;
+}
