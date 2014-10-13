@@ -276,9 +276,9 @@ a {
 }
 #header nav li a {
   color: black;
-  border: 1px solid #ff7400;
-  background: #ff7400;
-  background-color: #ff7400;
+  border: 1px solid #000000;
+  background: #000000;
+  background-color: #000000;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
@@ -287,9 +287,9 @@ a {
   text-align: center;
 }
 #header nav li a:hover {
-  background:  #ff9640;
-  background-color:  #ff9640;
-  border: 1px solid #ff9640;
+  background:  #000000;
+  background-color:  #000000;
+  border: 1px solid #000000;
 }
 #header nav li.fork {
   float: left;
