@@ -532,7 +532,7 @@ table {
 body {
   padding: 0px 0 20px 0px;
   margin: 0px;
-  font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 18px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #efefef;
   font-weight: normal;
   background: #252525;
@@ -730,7 +730,7 @@ dt {
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
-  font-size: 14px;
+  font-size: 20px;
   display: inline-block;
   text-align: center;
 }
