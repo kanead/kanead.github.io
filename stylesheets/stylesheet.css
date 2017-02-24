@@ -727,10 +727,10 @@ dt {
   border: 1px solid #EA5652;
   background: #EA5652;
   background-color: #EA5652;
-  padding: 10px 7px;
+  padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
-  font-size: 18px;
+  font-size: 16px;
   display: inline-block;
   text-align: center;
 }
