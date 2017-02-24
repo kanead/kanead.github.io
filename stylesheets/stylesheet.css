@@ -702,7 +702,7 @@ dt {
   height: 60px;
   width: 100%;
   position: fixed;
-  background: #0AB5CF;
+  background: #EA5652;
 
 }
 #header nav {
@@ -724,9 +724,9 @@ dt {
 }
 #header nav li a {
   color: #efefef;
-  border: 1px solid #0AB5CF;
-  background: #0AB5CF;
-  background-color: #0AB5CF;
+  border: 1px solid #EA5652;
+  background: #EA5652;
+  background-color: #EA5652;
   padding: 10px 12px;
   margin-top: 6px;
   line-height: 14px;
